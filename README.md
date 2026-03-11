@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
