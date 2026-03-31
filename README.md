@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
