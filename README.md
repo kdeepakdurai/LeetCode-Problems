@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1991-find-the-middle-index-in-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
