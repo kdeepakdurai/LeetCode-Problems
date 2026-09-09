@@ -1,20 +1,32 @@
 class Solution {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
-        int m = mat.length;
-        int n = mat[0].length;
 
-        if (m * n != r * c) return mat;
+        int rows = mat.length;
+        int cols = mat[0].length;
 
-        int[][] reshaped = new int[r][c];
-        int count = 0;
+        // Cannot reshape
+        if (rows * cols != r * c) {
+            return mat;
+        }
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                reshaped[count / c][count % c] = mat[i][j];
-                count++;
+        int[][] ans = new int[r][c];
+
+        // int k = 0;
+        int a=0,b=0;
+
+        for (int i = 0; i < rows; i++) {
+
+            for (int j = 0; j < cols; j++) {
+
+                ans[a][b] = mat[i][j];
+                b++;
+                if(b==c){
+                    b=0;
+                    a++;
+                }
             }
         }
 
-        return reshaped;
+        return ans;
     }
 }
