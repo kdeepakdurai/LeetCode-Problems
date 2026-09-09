@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0136-single-number) |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
