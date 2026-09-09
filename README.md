@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## String Matching
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0274-h-index) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
