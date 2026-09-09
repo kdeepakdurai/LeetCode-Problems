@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
