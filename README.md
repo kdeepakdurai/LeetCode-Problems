@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
 | ------- |
