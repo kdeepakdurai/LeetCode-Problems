@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
