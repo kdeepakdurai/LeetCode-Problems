@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
