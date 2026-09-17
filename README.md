@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1208-get-equal-substrings-within-budget](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [1208-get-equal-substrings-within-budget](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
