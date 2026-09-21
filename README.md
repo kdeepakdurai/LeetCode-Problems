@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3524-find-x-value-of-array-i](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
