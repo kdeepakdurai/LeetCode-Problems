@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
