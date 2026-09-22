@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0917-reverse-only-letters) |
@@ -201,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
