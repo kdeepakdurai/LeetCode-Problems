@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
