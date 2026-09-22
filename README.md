@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Segment Tree
 |  |
