@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
