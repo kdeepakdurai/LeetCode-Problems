@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0389-find-the-difference) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0376-wiggle-subsequence](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kdeepakdurai/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
